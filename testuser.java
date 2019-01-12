@@ -65,8 +65,8 @@ public class testuser {
 	public static void main(String[] args) throws Exception {
 		//insert();
 		//byid();
-		//search();
-		up();
+		search();
+		//all();
 	}
 
 }
