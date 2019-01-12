@@ -165,12 +165,12 @@ public class testbook {
 		res=dao.update(sql);
 		isbn();
 	}
-	/*public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception {
 		//insert();
 		//del();
-		//all();
+		all();
 		//isbn();
 		//search();
 		//up();
-	}*/
+	}
 }
